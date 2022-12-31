@@ -1,0 +1,15 @@
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\bin\Debug\net6.0\NewOCPConcept.exe
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\bin\Debug\net6.0\NewOCPConcept.deps.json
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\bin\Debug\net6.0\NewOCPConcept.runtimeconfig.json
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\bin\Debug\net6.0\NewOCPConcept.dll
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\bin\Debug\net6.0\NewOCPConcept.pdb
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\NewOCPConcept.csproj.AssemblyReference.cache
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\NewOCPConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\NewOCPConcept.AssemblyInfoInputs.cache
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\NewOCPConcept.AssemblyInfo.cs
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\NewOCPConcept.csproj.CoreCompileInputs.cache
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\NewOCPConcept.dll
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\refint\NewOCPConcept.dll
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\NewOCPConcept.pdb
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\NewOCPConcept.genruntimeconfig.cache
+C:\Users\mehad\Desktop\NewOCPConcept\NewOCPConcept\NewOCPConcept\obj\Debug\net6.0\ref\NewOCPConcept.dll
